@@ -13,9 +13,7 @@ Languages:
 
 Front-End Development:
 
-<img width="897" height="337" alt="image" src="https://github.com/user-attachments/assets/73e3e491-0a54-4b4d-88f1-914210abd776" /> <img width="897" height="337" alt="image" src="https://github.com/user-attachments/assets/567c2511-3646-42f2-932b-3f45cb782dbd" /> <img width="897" height="337" alt="image" src="https://github.com/user-attachments/assets/7f24a9e8-ad8f-44d8-bcb1-004022efecfb" /> <img width="897" height="337" alt="image" src="https://github.com/user-attachments/assets/b98c9f2f-94cd-4eea-a5d3-f2613513842e" />
-
-<img width="897" height="337" alt="image" src="https://github.com/user-attachments/assets/96e49855-de61-4f4b-a425-04f5818fa212" />
+<img width="897" height="337" alt="image" src="https://github.com/user-attachments/assets/73e3e491-0a54-4b4d-88f1-914210abd776" /> 
 
 
 
