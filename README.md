@@ -6,6 +6,15 @@
 🎓 &nbsp;I graduated from the Francisco José de Caldas District University in Bogotá with a degree in Mathematics Education. I am also a graduate of SENA’s Analysis and Development of Information Systems (ADSI) program, and I am currently pursuing a Technology degree in Video Game Development and Interactive Environments at SENA.
 
 
+🌱  I'm currently deepening my knowledge in Web Development, Data Analysis, QA Testing, and Applied Mathematics, while also exploring topics like Artificial Intelligence, Systems Design, and Cloud Architecture.
+✍️  In my free time, I enjoy experimenting with data-driven projects, improving testing workflows, and writing about technology and software quality.
+💬  Feel free to reach out for collaboration, open-source contributions, or just to exchange ideas about web performance, data insights, and testing strategies.
+✉️  You can contact me at sebas121985xd@gmail.com
+ / csperezq@udistrital.edu.co
+ — I’ll get back to you as soon as I can.
+📄  Check out my Résumé
+ for more details about my background. I’m always open to feedback, collaboration, and new challenges!
+
 
 <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/30bc10f2-5bd8-486f-93d3-be2591dfb2ae" />
 
