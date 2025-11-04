@@ -1,7 +1,7 @@
 # Waseticx  <img width="135" height="20" alt="image" src="https://github.com/user-attachments/assets/a32ad625-a733-4082-a031-377d907009f1" />
 
 💡 &nbsp;I enjoy exploring new technologies and developing software solutions and quick prototypes. I’m also passionate about data analysis and QA testing, with a strong focus on improving product quality, efficiency, and user experience.\
-🎓 &nbsp;I graduated from the Francisco José de Caldas District University in Bogotá with a degree in Mathematics Education. I am also a graduate of SENA’s Analysis and Development of Information Systems (ADSI) program, and I am currently pursuing a Technology degree in Video Game Development and Interactive Environments at SENA.\
+🎓 &nbsp;I graduated from the Francisco José de Caldas District University in Bogotá with a degree in Mathematics Education. I am also a graduate of SENA’s Analysis and Development of Information Systems (ADSI) program, and I am currently pursuing a Technology degree in Video Game Development and Interactive Environments at SENA.
 
 
 
