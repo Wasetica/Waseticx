@@ -13,7 +13,7 @@ Languages:
 
 Front-End Development:
 
-<img width="897" height="337" alt="image" src="https://github.com/user-attachments/assets/73e3e491-0a54-4b4d-88f1-914210abd776" /> 
+<img width="217" height="48" alt="image" src="https://github.com/user-attachments/assets/870c3964-6239-4f1f-ba09-2b93f5628293" />
 
 
 
