@@ -7,12 +7,19 @@
 
 
 🌱  I'm currently deepening my knowledge in Web Development, Data Analysis, QA Testing, and Applied Mathematics, while also exploring topics like Artificial Intelligence, Systems Design, and Cloud Architecture.
+
 ✍️  In my free time, I enjoy experimenting with data-driven projects, improving testing workflows, and writing about technology and software quality.
+
 💬  Feel free to reach out for collaboration, open-source contributions, or just to exchange ideas about web performance, data insights, and testing strategies.
+
+
 ✉️  You can contact me at sebas121985xd@gmail.com
  / csperezq@udistrital.edu.co
+ 
  — I’ll get back to you as soon as I can.
+
 📄  Check out my Résumé
+
  for more details about my background. I’m always open to feedback, collaboration, and new challenges!
 
 
