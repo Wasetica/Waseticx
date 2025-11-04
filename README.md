@@ -41,3 +41,6 @@ Contacto:
 
 <img width="218" height="28" alt="image" src="https://github.com/user-attachments/assets/9536337d-4359-4c79-9893-6068951b75e4" />
 
+
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/0f01fdad-6f33-45f5-b2c8-10ae9ef4103c" />
+
